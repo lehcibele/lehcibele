@@ -17,6 +17,12 @@
 <img src="imagens/c++.png" align="center" width="40" height="40" alt="logo c++">
 </div>
 
+## Minhas redes sociais
+
+<div>
+
+</div>
+
 <br />
 <br />
 <br />
@@ -27,10 +33,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LeticiaCibele&show_icons=true&theme=gruvbox"/>
 <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacibele&show_icons=true&theme=gruvbox&hide_progress=true&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiacibele&show_icons=true&theme=gruvbox" alt="leticiacibele"/>
-</div>
-
-## Minhas redes sociais
-
-<div>
-
 </div>
