@@ -24,6 +24,8 @@
 <div align="center">
 <a href="https://github.com/lehcibele">
 <img src="https://github-readme-stats.vercel.app/api?username=LeticiaCibele&show_icons=true&theme=gruvbox"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacibele&show_icons=true&theme=gruvbox&hide_progress=true&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiacibele&show_icons=true&theme=gruvbox" alt="leticiacibele"/>
 </div>
 
 ## Minhas redes sociais
