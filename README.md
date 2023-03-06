@@ -10,4 +10,9 @@
 ## Tecnologias que utilizo
 <div style="display: inline_block"><br>
 <img src="imagens/html.png" width="40" height="40" alt="logo html">
+<img src="imagens/css.png" width="40" height="40" alt="logo css">
+<img src="imagens/js_logo.png" width="40" height="40" alt="logo JavaScript">
+<img src="imagens/c++.png" width="40" height="40" alt="logo c++">
+
+
 </div>
