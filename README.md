@@ -15,4 +15,13 @@
 <img src="imagens/c++.png" align="center" width="40" height="40" alt="logo c++">
 </div>
 
+<div align="center">
+<a href="https://github.com/lehcibele">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaCIbele)](https://github.com/LeticiaCibele/github-readme-stats)
+</div>
+
 ## Minhas redes sociais
+
+<div>
+
+</div>
