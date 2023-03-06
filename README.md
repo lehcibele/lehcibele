@@ -5,5 +5,5 @@
 
 ## Tecnologias que utilizo
 <div style="display: inline_block"><br>
-<img src="imagens/html.png" width="40" height="30" alt="logo html">
+<img src="imagens/html.png" width="40" height="40" alt="logo html">
 </div>
