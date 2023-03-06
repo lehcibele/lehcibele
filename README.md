@@ -17,7 +17,7 @@
 
 <div align="center">
 <a href="https://github.com/lehcibele">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaCibele)](https://github.com/LeticiaCibele/github-readme-stats)
+<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaCibele)](https://github.com/LeticiaCibele/github-readme-stats)">
 </div>
 
 ## Minhas redes sociais
