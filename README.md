@@ -20,16 +20,16 @@
 ## Minhas redes sociais
 
 <div>
-    <a href="https://www.instagram.com/leh_cibelle/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/leh_cibelle/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href ="mailto:leticiacibele.cl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
-## 💻Estatísticas do GitHub:
+## 💻Estatísticas do GitHub
 
 <div align="center">
 <a href="https://github.com/lehcibele">
-<img src="https://github-readme-stats.vercel.app/api?username=LeticiaCibele&show_icons=true&theme=gruvbox"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leticiacibele&show_icons=true&theme=gruvbox"/>
 <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacibele&show_icons=true&theme=gruvbox&hide_progress=true&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiacibele&show_icons=true&theme=gruvbox" alt="leticiacibele"/>
 </div>
