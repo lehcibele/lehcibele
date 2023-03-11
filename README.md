@@ -30,6 +30,6 @@
 <div>
 <a href="https://github.com/lehcibele">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lehcibele&show_icons=true&theme=gruvbox"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurcavalcante&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehcibele&layout=compact&langs_count=6&theme=tokyonight"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lehcibele&show_icons=true&theme=gruvbox" alt="leticiacibele"/>
 </div>
