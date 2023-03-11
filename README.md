@@ -29,7 +29,7 @@
 
 <div align="center">
 <a href="https://github.com/lehcibele">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lehcibele&show_icons=true&theme=gruvbox"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehcibele&show_icons=true&theme=gruvbox"/>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=lehcibele&show_icons=true&theme=gruvbox"/>
+<img height="180em" aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehcibele&show_icons=true&theme=gruvbox"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lehcibele&show_icons=true&theme=gruvbox" alt="leticiacibele"/>
 </div>
