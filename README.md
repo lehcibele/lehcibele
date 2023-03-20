@@ -15,7 +15,7 @@
 <img src="imagens/css.png" align="center" width="40" height="40" alt="logo css">
 <img src="imagens/js_logo.png" align="center" width="40" height="40" alt="logo JavaScript">
 <img src="imagens/c++.png" align="center" width="40" height="40" alt="logo c++">
-<img src="imagens/logo_C.png" align="center" width="40" height="40" alt="logo c">
+
 </div>
 
 ## Minhas redes sociais
