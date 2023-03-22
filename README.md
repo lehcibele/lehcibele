@@ -15,7 +15,7 @@
 <img src="imagens/css.png" align="center" width="40" height="40" alt="logo css">
 <img src="imagens/js_logo.png" align="center" width="40" height="40" alt="logo JavaScript">
 <img src="imagens/c++.png" align="center" width="40" height="40" alt="logo c++">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" width="40" height="40" alt="logo C"/>
 </div>
 
 ## Minhas redes sociais
