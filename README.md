@@ -11,10 +11,10 @@
 
 ## Tecnologias que utilizo
 <div style="display: inline_block"><br>
-<img src="imagens/html.png" align="center" width="40" height="40" alt="logo html">
-<img src="imagens/css.png" align="center" width="40" height="40" alt="logo css">
-<img src="imagens/js_logo.png" align="center" width="40" height="40" alt="logo JavaScript">
-<img src="imagens/c++.png" align="center" width="40" height="40" alt="logo c++">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="center" width="40" height="40" alt="logo html">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" width="40" height="40" alt="logo css">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" width="40" height="40" alt="logo JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" align="center" width="40" height="40" alt="logo c++">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" width="40" height="40" alt="logo C"/>
 </div>
 
@@ -28,9 +28,10 @@
 
 ## 💻Estatísticas do GitHub
 
-<div>
+<div aling="center">
 <a href="https://github.com/lehcibele">
-<img  aling="left" src="https://github-readme-stats.vercel.app/api?username=lehcibele&show_icons=true&theme=gruvbox"/>
-<img  aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehcibele&show_icons=true&theme=gruvbox&layout=compact&langs_count=16"/>
-<img  aling="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lehcibele&show_icons=true&theme=gruvbox" alt="leticiacibele"/>
+    
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lehcibele&show_icons=true&theme=gruvbox"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehcibele&show_icons=true&theme=gruvbox&layout=compact&langs_count=16"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lehcibele&show_icons=true&theme=gruvbox" alt="leticiacibele"/>
 </div>
