@@ -28,7 +28,7 @@
 
 ## 💻Estatísticas do GitHub
 
-<div aling="center">
+<div>
 <a href="https://github.com/lehcibele">
     
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lehcibele&show_icons=true&theme=gruvbox"/>
