@@ -8,7 +8,7 @@
 
 **Sobre mim**
 
-<img align="right" src="gifs/7her4ja.gif" width="350px">
+<img align="right" src="gifs/7her4ja.gif" width="350px" style="margin-left: 20px;">
 
 <p align="left">
 
