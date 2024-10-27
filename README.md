@@ -1,18 +1,3 @@
-# Hello World!
-
-**Me chamo Leticia Cibele.** ![Imagem de Tanjiro anime demon slayer](imagens/fotor-20241027182025.png)
-
----
-
-### Sobre mim
-
-Sou bacharel em Ciências e Tecnologia pela Universidade Federal do Rio Grande do Norte (UFRN) e atualmente estou cursando Engenharia da Computação pela mesma instituição. Minha área de atuação é a de Front-End. Atualmente, sou assessora de projetos na EJETC, a empresa júnior da Escola de Ciências e Tecnologia (ECT) da UFRN.
-
-Durante três semestres, também tive a oportunidade de ser tutora no programa de tutoria da Escola de Ciências e Tecnologia (ECT) da UFRN. Nesse período, auxiliei alunos ingressantes nas disciplinas do primeiro semestre, oferecendo suporte em revisões teóricas, resolução de exercícios e na criação de cronogramas de estudo.
-
-![GIF](gifs/7her4ja.gif)
-
-
 
 
 
