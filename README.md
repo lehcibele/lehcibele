@@ -12,4 +12,4 @@ Sou bacharel em Ciências e Tecnologia pela Universidade Federal do Rio Grande d
 Durante três semestres, também tive a oportunidade de ser tutora no programa de tutoria da Escola de Ciências e Tecnologia (ECT) da UFRN. Nesse período, auxiliei alunos ingressantes nas disciplinas do primeiro semestre, oferecendo suporte em revisões teóricas, resolução de exercícios e na criação de cronogramas de estudo.
 </p>
 
-<img align="right" src="gifs/7her4ja.gif">
+<img align="right" src="gifs/7her4ja.gif" width="350px">
