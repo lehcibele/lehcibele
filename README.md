@@ -8,7 +8,9 @@
 
 <div>
     <div>
-        <p align="center" style="font-weight:bold; font-size:20px;">Sobre mim</p>
+        ## Sobre mim
+
+
     </div>
     <img src="gifs/7her4ja.gif" width="350px"> 
 </div>
