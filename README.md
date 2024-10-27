@@ -1,4 +1,4 @@
-### Hello World!
-# Me chamo Leticia Cibele.
-
-<img align="right" src="imagens/fotor-20241027182025.png">
+<h1> 
+Hello World!
+Me chamo Leticia Cibele.
+</h1>
