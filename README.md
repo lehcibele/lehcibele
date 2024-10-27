@@ -6,7 +6,7 @@
     </div>
 </h1>
 
-<p align="left">Sobre mim</p>
+**Sobre mim**
 
 <img align="right" src="gifs/7her4ja.gif" width="350px">
 
