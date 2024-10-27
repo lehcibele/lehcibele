@@ -7,7 +7,9 @@
 </h1>
 
 <div>
-    <div>Sobre mim</div>
+    <div>
+        <p style="text-align:center; font-weight: bold; font-size:20px;">Sobre mim</p>
+    </div>
     <img src="gifs/7her4ja.gif" width="350px"> 
 </div>
 
