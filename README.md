@@ -8,9 +8,9 @@
 
 **Sobre mim**
 
-<img align="right" src="gifs/7her4ja.gif" width="350px" style="margin-left: 20px;">
+<img align="right" src="gifs/7her4ja.gif" width="350px">
 
-<p align="left">
+<p align="left"  style="margin-right: 20px;">
 
 Sou bacharel em Ciências e Tecnologia pela Universidade Federal do Rio Grande do Norte (UFRN) e atualmente estou cursando Engenharia da Computação pela mesma instituição. Minha área de atuação é a de Front-End. Atualmente, sou assessora de projetos na EJETC, a empresa júnior da Escola de Ciências e Tecnologia (ECT) da UFRN.
 
