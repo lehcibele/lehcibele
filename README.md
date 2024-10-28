@@ -22,6 +22,6 @@ Durante três semestres, também tive a oportunidade de ser tutora no programa d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ## ⚙️ &nbsp;GitHub Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehcibele&theme=maroongold&show_icons=true)
 ## 📧 Contacts
 
