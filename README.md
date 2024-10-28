@@ -29,7 +29,10 @@ Durante três semestres, também tive a oportunidade de ser tutora no programa d
 </div>
 
 ## 📧 Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-cibele-94bb74311/){:target="_blank"}
+<a href="https://www.linkedin.com/in/let%C3%ADcia-cibele-94bb74311/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[SEUUSERNAME](https://github.com/lehcibele)){:target="_blank"}
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leticiacibele.cl@gamil.com){:target="_blank"}
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/){:target="_blank"}
