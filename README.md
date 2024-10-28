@@ -24,6 +24,6 @@ Durante três semestres, também tive a oportunidade de ser tutora no programa d
 
 ## ⚙️ &nbsp;GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehcibele&theme=maroongold&show_icons=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lehcibele&layout=compact&bg_color=260000&border_color=FFF&title_color=ECE383&text_color=D39E3A)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lehcibele&layout=compact&bg_color=260000&border_color=FFF&title_color=ECE383&text_color=C59135&width=500&height=200)
 ## 📧 Contacts
 
