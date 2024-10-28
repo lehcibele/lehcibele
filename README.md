@@ -23,7 +23,7 @@ Durante três semestres, também tive a oportunidade de ser tutora no programa d
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
 ## ⚙️ &nbsp;GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehcibele&theme=maroongold&show_icons=true&width=500&height=200)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lehcibele&layout=compact&bg_color=260000&border_color=FFF&title_color=ECE383&text_color=C59135&width=500&height=200)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehcibele&theme=maroongold&show_icons=true&width=400&height=auto)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lehcibele&layout=compact&bg_color=260000&border_color=FFF&title_color=ECE383&text_color=C59135&width=400&height=auto)
 ## 📧 Contacts
 
