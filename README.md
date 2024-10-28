@@ -8,16 +8,17 @@
 
 **Sobre mim**
 
-<img align="right" src="gifs/7her4ja.gif" width="350px" style="margin-left: 20px; margin-top: 20px;">
+<img align="right" src="gifs/7her4ja.gif" width="350px">
 
-<p align="left" style="margin-top: 20px;">
+<p align="left">
 Sou bacharel em Ciências e Tecnologia pela Universidade Federal do Rio Grande do Norte (UFRN) e atualmente estou cursando Engenharia da Computação pela mesma instituição. Minha área de atuação é a de Front-End. Atualmente, sou assessora de projetos na EJETC, a empresa júnior da Escola de Ciências e Tecnologia (ECT) da UFRN.
 
 Durante três semestres, também tive a oportunidade de ser tutora no programa de tutoria da Escola de Ciências e Tecnologia (ECT) da UFRN. Nesse período, auxiliei alunos ingressantes nas disciplinas do primeiro semestre, oferecendo suporte em revisões teóricas, resolução de exercícios e na criação de cronogramas de estudo.
 </p>
 
 ## 🛠 &nbsp;My Skills
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## ⚙️ &nbsp;GitHub Stats
 
 ## 📧 Contacts
