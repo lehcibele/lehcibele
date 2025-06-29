@@ -7,10 +7,10 @@
 
 <img align="right" src="gifs/7her4ja.gif" width="450">
 
-- 🧑🏽‍💻 Desenvolvedora Front-end  
-- ⏳ Graduanda em Engenharia de Computação - UFRN  
-- 🎓 Bacharel em Ciência e Tecnologia - UFRN  
-- 💼 Atualmente atuando como assessora de projetos em front-end na EJETC
+- 🧑🏽‍💻 Desenvolvedora Front-end.  
+- ⏳ Graduanda em Engenharia de Computação - UFRN.  
+- 🎓 Bacharel em Ciência e Tecnologia - UFRN.
+- 💼 Atualmente atuando na EJETC como assessora de projetos front-end.
 
 <br>
 <br>
