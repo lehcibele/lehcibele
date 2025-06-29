@@ -5,17 +5,10 @@
 
 ## 💫 Sobre mim
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Desenvolvedora Front-end 👩🏽‍💻</li>
-        <li>Graduanda em Engenharia de Computação - UFRN ⏳</li>
-        <li>Bacharel em Ciência e Tecnologia - UFRN 🎓</li>
-      </ul>
-    </td>
-    <td>
-      <img src="gifs/7her4ja.gif" width="500">
-    </td>
-  </tr>
-</table>
+<img align="right" src="gifs/7her4ja.gif" width="500">
+
+- 🧑🏽‍💻 Desenvolvedora Front-end  
+- ⏳ Graduanda em Engenharia de Computação - UFRN  
+- 🎓 Bacharel em Ciência e Tecnologia - UFRN  
+
+
